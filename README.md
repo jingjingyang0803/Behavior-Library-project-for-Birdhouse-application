@@ -7,7 +7,7 @@ This is the Behavior Library project for our Birdhouse application. This library
 To use this library, clone the project to your local machine.
 
 ```bash
-git clone git@github.com:jingjingyang0803/Behavior-Library-project-for-Birdhouse-application.git
+git clone https://github.com/jingjingyang0803/Behavior-Library-project-for-Birdhouse-application.git
 ```
 
 ## Project Structure
